@@ -1,0 +1,11 @@
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_UI\LoginPanel_UI\bin\LoginPanel_UI.dll
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_UI\LoginPanel_UI\bin\LoginPanel_UI.pdb
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_UI\LoginPanel_UI\obj\Debug\LoginPanel_UI.dll
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_UI\LoginPanel_UI\obj\Debug\LoginPanel_UI.pdb
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_UI\LoginPanel_UI\obj\Debug\LoginPanel_UI.csprojResolveAssemblyReference.cache
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_UI\LoginPanel_UI\bin\LoginPanel_UI.dll.config
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_UI\LoginPanel_UI\bin\LoginPanel_UI.dll
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_UI\LoginPanel_UI\bin\LoginPanel_UI.pdb
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_UI\LoginPanel_UI\obj\Debug\LoginPanel_UI.csprojResolveAssemblyReference.cache
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_UI\LoginPanel_UI\obj\Debug\LoginPanel_UI.dll
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_UI\LoginPanel_UI\obj\Debug\LoginPanel_UI.pdb

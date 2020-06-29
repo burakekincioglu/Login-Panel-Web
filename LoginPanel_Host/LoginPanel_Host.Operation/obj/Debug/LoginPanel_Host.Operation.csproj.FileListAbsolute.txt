@@ -1,0 +1,10 @@
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host.Operation\bin\Debug\LoginPanel_Host.Operation.dll
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host.Operation\bin\Debug\LoginPanel_Host.Operation.pdb
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host.Operation\obj\Debug\LoginPanel_Host.Operation.dll
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host.Operation\obj\Debug\LoginPanel_Host.Operation.pdb
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host.Operation\obj\Debug\LoginPanel_Host.Operation.csprojResolveAssemblyReference.cache
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host.Operation\bin\Debug\LoginPanel_Host.Operation.dll
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host.Operation\bin\Debug\LoginPanel_Host.Operation.pdb
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host.Operation\obj\Debug\LoginPanel_Host.Operation.csprojResolveAssemblyReference.cache
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host.Operation\obj\Debug\LoginPanel_Host.Operation.dll
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host.Operation\obj\Debug\LoginPanel_Host.Operation.pdb

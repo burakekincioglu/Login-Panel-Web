@@ -1,0 +1,15 @@
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.dll
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.pdb
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host\obj\Debug\LoginPanel_Host.dll
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host\obj\Debug\LoginPanel_Host.pdb
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.Operation.dll
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.Operation.pdb
+C:\Users\HASAN.KOC\Desktop\Proje\LoginPanel_Host\LoginPanel_Host\obj\Debug\LoginPanel_Host.csprojResolveAssemblyReference.cache
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.dll.config
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.dll
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.pdb
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.Operation.dll
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\bin\LoginPanel_Host.Operation.pdb
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\obj\Debug\LoginPanel_Host.csprojResolveAssemblyReference.cache
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\obj\Debug\LoginPanel_Host.dll
+C:\Users\Burak Ekincioğlu\Desktop\LP\Proje\LoginPanel_Host\LoginPanel_Host\obj\Debug\LoginPanel_Host.pdb
