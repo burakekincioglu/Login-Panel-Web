@@ -4,7 +4,7 @@
 **Tasklar**
 
 * 1.Uygulama ve Db Katmanı
-* Kısıtlar:
+* Kısıtlar: 
  * Uygulama katmanı web servis veya restful servis şeklinde hazırlanmalıdır.
  * Kullanıcının şifresi hash lenerek db de saklanmalıdır.
  * Veri tabanı işlemleri db de veya uygulama tarafında yapabilirsiniz.
