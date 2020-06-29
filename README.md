@@ -30,3 +30,4 @@
 * Yazılan kodu tasarım kalıplarına göre yazılması
 * Yukarıdaki tasklara ek olarak yapılan çalışmalar
 * Yazılan uygulamanın GITHUB veya Gitlab gibi repolara aktarılması
+.
