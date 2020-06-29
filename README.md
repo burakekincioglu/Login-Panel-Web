@@ -1,5 +1,5 @@
 # Login Panel
- Basic Longin Panel Design
+ Basic Login Panel Design
  
 **Tasklar**
 
